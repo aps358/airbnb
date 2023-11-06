@@ -1,14 +1,19 @@
+import Header from './components/Header';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Air BnB Clone</h1>
 
       {/* <Header> */}
+      <Header></Header>
+
       {/* <Calendars> */}
+
       {/* <Home> */}
+
       {/* <Cards> */}
+
       {/* <Footer> */}
     </div>
   );
