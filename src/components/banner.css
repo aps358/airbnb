@@ -1,0 +1,24 @@
+.banner__container{
+    background: url("https://as2.ftcdn.net/v2/jpg/03/09/59/41/1000_F_309594165_7PVyHRU11cI0Oy0j59epTYgOzNzYZllW.jpg");
+    height: 30vh; 
+    position:relative;
+}
+
+
+.banner__info{
+    background-color: black;
+    color: white;
+    padding-top: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    width: 30vh;
+}
+
+.banner__info > button{
+    background-color: pink;
+    color: white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
